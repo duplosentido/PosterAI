@@ -1,0 +1,7 @@
+{
+  "name": "Sân Khấu Vàng - Trợ Lý Tạo Poster Ca Nhạc",
+  "description": "Ứng dụng hỗ trợ tạo poster ca nhạc chuyên nghiệp cho các nghệ sĩ và câu lạc bộ, sử dụng trí tuệ nhân tạo Gemini để thiết kế phông nền và bố cục chữ tự động.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
